@@ -1,0 +1,92 @@
+body{
+    position: relative;
+    height: 1000px;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.profil{
+    position: absolute;
+    top: 4%;
+    left: 2%;
+}
+
+.infoImg{
+    position: absolute;
+    top:37%;
+    left:2%;
+    line-height: 220%;
+
+}
+
+.info{
+    position: absolute;
+    top:35%;
+    left:6%;
+    font-size: x-large;
+    line-height: 200%;
+    font-weight: bold;
+    
+    
+}
+
+.myName{
+    position: relative;
+    color: black;
+    left: 25%;
+}
+
+.text{
+    position: absolute;
+    font-size: 2em;
+    color: black;
+    left: 20%;
+    top: 0;
+    line-height: 120%;
+}
+
+.headers{
+
+    border-radius: 6px;
+    border-color: black;
+    position: relative;
+    left: 8%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.date{
+    font-family: monospace;
+    position: relative;
+    font-size: 21px;
+    left: 20px;
+}
+
+.media{
+    position: absolute;
+    height: 50px;
+    width: 827px;
+    bottom:10%;
+    left: 25%;
+}
+
+.textMedia{
+    font-size: large;
+    position: absolute;
+    left:35%;
+    top: 0;
+}
+
+.fb{
+    position: absolute;
+    left: 51.3%;
+    top:38%;
+}
+
+.insta{
+    position: absolute;
+    left: 55%;
+    top:38%;
+}
